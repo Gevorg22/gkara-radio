@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0">
+    <link rel="shortcut icon" href="./img/favicon-radio.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js" defer></script>
+    <title>Radio Online</title>
+</head>
+<body>
+    <div class="container">
+        <a class="header-logo" href="index.html">
+            <img class="header-logo__img" src="./img/logo-title.png" alt="Лого" draggable="false">   
+        </a>
+        <div class="radio-container">
+            <div class="radio-player">
+                <div class="radio-player__img">
+                    <img class="radio-player__logo" src="./img/radio-disc.png" alt="обложка" draggable="false">
+                </div>
+                <div class="radio-navigation">
+                    <h3 class="radio-title">Нажми на пластинку</h3>
+                    <div class="radio-menu">
+                        <button class="fa fa-play radio-menu__button"></button>
+                        <span class="fa fa-volume-down radio-menu__icon"></span>
+                        <input type="range" class="radio-menu__volume" min="0" max="100" step="1" value="100">
+                        <span class="fa fa-volume-up radio-menu__icon"></span>
+                    </div>
+                </div>
+            </div>
+            <ul class="radio-list"></ul>
+        </div>
+    </div>
+</body>
+</html>

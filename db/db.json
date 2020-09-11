@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Radio Record",
+        "description": "http://air.radiorecord.ru:805/rr_320",
+        "image": "./img/radio/RecordRadio.jpg"
+    },
+    {
+        "name": "Record Russian Mix",
+        "description": "http://air.radiorecord.ru:8102/rus_320",
+        "image": "./img/radio/RecordRadio-RussianMix.jpg"
+    },
+    {
+        "name": "Radio Energy",
+        "description": "http://ic4.101.ru:8000/region_energy_161",
+        "image": "./img/radio/Energy.png"
+    },
+    {
+        "name": "Radio Maximum",
+        "description": "https://maximum.hostingradio.ru/maximum96.aacp",
+        "image": "./img/radio/Maximum.jpg"
+    },
+    {
+        "name": "Radio Monte Carlo",
+        "description": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+        "image": "./img/radio/MonteCarlo.jpg"
+    },
+    {
+        "name": "Europa Plus",
+        "description": "http://ep128.hostingradio.ru:8030/ep128",
+        "image": "./img/radio/europaplus.jpg"
+    },
+    {
+        "name": "DFM Radio",
+        "description": "https://dfm.hostingradio.ru/dfm96.aacp",
+        "image": "./img/radio/DFM.jpg"
+    },
+    {
+        "name": "Super Disco 90",
+        "description": "http://air2.radiorecord.ru:805/sd90_320",
+        "image": "./img/radio/SuperDisco90.jpg"
+    },
+    {
+        "name": "Dorognoe Radio",
+        "description": "http://dorognoe.hostingradio.ru:8000/radio",
+        "image": "./img/radio/RoadRadio.png"
+    },
+    {
+        "name": "Retro FM",
+        "description": "http://europaplus.hostingradio.ru:8014/retro320.mp3",
+        "image": "./img/radio/RetroFM.jpg"
+    },
+    {
+        "name": "Autoradio",
+        "description": "https://ic7.101.ru:8000/a100",
+        "image": "./img/radio/Autoradio.jpg"
+    },
+    {
+        "name": "Russkoe Radio",
+        "description": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "image": "./img/radio/Rus-radio.jpeg"
+    },
+    {
+        "name": "Radio Shanson",
+        "description": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
+        "image": "./img/radio/Shanson.jpg"
+    },
+    {
+        "name": "Relax FM",
+        "description": "http://ic6.101.ru:8000/stream/air/aac/64/200",
+        "image": "./img/radio/RelaxRadio.png"
+    },
+    {
+        "name": "Relax FM Nature",
+        "description": "http://ic7.101.ru:8000/c19_1?userid=0",
+        "image": "./img/radio/relaxfmnature.jpg"
+    }
+]
