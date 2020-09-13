@@ -16,7 +16,7 @@ radioMenuButton.disabled = true;
 let dbCard;
 
 (async () => {
-    let response = await fetch('./db/db.json');
+    const response = await fetch('./db/db.json');
     dbCard = await response.json();
 })()
 
