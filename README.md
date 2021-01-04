@@ -1,5 +1,5 @@
 **Your Online Radio**
 
-https://gevorg22.github.io/onlineradio/
+https://gevorg22.github.io/gkara-onlineradio/
 
 *no IE support
