@@ -70,8 +70,8 @@
         "image": "./img/radio/RelaxRadio.png"
     },
     {
-        "name": "Relax FM Nature",
-        "description": "http://ic7.101.ru:8000/c19_1?userid=0",
-        "image": "./img/radio/relaxfmnature.jpg"
+        "name": "Radio Hermitage",
+        "description": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+        "image": "./img/radio/hermitage.png"
     }
 ]
