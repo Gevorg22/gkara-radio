@@ -1,5 +1,3 @@
-Радиоплеер, написанный на нативном JS.
+A radio player written in native JS.
 
 https://gevorg22.github.io/gkara-radio/
-
-*no IE support
